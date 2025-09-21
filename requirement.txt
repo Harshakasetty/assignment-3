@@ -1,0 +1,9 @@
+transformers
+torch
+sentencepiece
+streamlit
+pymongo[srv]
+sentence-transformers
+fpdf
+numpy
+PyPDF2
